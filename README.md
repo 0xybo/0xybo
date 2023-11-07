@@ -12,6 +12,17 @@
         />
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CdP_Downloader&show_icons=true" alt="Cdp_Downloader" />
     </picture>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=homeassistant-mipc-camera&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=homeassistant-mipc-camera&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=homeassistant-mipc-camera&show_icons=true" alt="Home Assistant MIPC Camera" />
+    </picture>
 </a>
 
 # Some statistics
