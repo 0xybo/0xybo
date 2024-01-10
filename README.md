@@ -12,6 +12,8 @@
         />
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CdP_Downloader&show_icons=true" alt="Cdp_Downloader" />
     </picture>
+</a>
+<a href="https://github.com/0xybo/homeassistant-mipc-camera">
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=homeassistant-mipc-camera&show_icons=true&theme=dark"
@@ -21,7 +23,36 @@
             srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=homeassistant-mipc-camera&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=homeassistant-mipc-camera&show_icons=true" alt="Home Assistant MIPC Camera" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=homeassistant-mipc-camera&show_icons=true" alt="Groupe-3-Projet-Bloc-POO" />
+    </picture>
+</a>
+
+# Student Projects
+
+<a href="https://github.com/CESI-ORLEANS-A2/Groupe-3-Projet-Bloc-POO">
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Groupe-3-Projet-Bloc-POO&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Groupe-3-Projet-Bloc-POO&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Groupe-3-Projet-Bloc-POO&show_icons=true" alt="Groupe-3-Projet-Bloc-POO" />
+    </picture>
+</a>
+<a href="https://github.com/CESI-ORLEANS-A2/Station_Meteo_Groupe_1">
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Station_Meteo_Groupe_1&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Station_Meteo_Groupe_1&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Station_Meteo_Groupe_1&show_icons=true" alt="Station_Meteo_Groupe_1" />
     </picture>
 </a>
 
