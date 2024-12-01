@@ -1,3 +1,5 @@
+First-year student at a computer engineering school.
+
 # Repositories
 
 <a href="https://github.com/0xybo/CdP_Downloader">
