@@ -70,17 +70,17 @@ First-year student at a computer engineering school.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=ProjetWebGroupe2&show_icons=true" alt="ProjetWebGroupe2" />
     </picture>
 </a>
-<a href="https://github.com/0xybo/CESI-A3---Projet---Algorithmie-et-optimisation-combinatoire">
+<a href="https://github.com/0xybo/CESI_A3_Projet_AlgorithmieEtOptimisationCombinatoire">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI-A3---Projet---Algorithmie-et-optimisation-combinatoire&show_icons=true&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A3_Projet_AlgorithmieEtOptimisationCombinatoire&show_icons=true&theme=dark"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI-A3---Projet---Algorithmie-et-optimisation-combinatoire&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A3_Projet_AlgorithmieEtOptimisationCombinatoire&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI-A3---Projet---Algorithmie-et-optimisation-combinatoire&show_icons=true" alt="0xybo/CESI-A3---Projet---Algorithmie-et-optimisation-combinatoire" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A3_Projet_AlgorithmieEtOptimisationCombinatoire&show_icons=true" alt="0xybo/CESI_A3_Projet_AlgorithmieEtOptimisationCombinatoire" />
     </picture>
 </a>
 
