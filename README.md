@@ -57,6 +57,19 @@ First-year student at a computer engineering school.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Station_Meteo_Groupe_1&show_icons=true" alt="Station_Meteo_Groupe_1" />
     </picture>
 </a>
+<a href="https://github.com/CESI-ORLEANS-A2/ProjetWebGroupe2">
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=ProjetWebGroupe2&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=ProjetWebGroupe2&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=ProjetWebGroupe2&show_icons=true" alt="ProjetWebGroupe2" />
+    </picture>
+</a>
 
 # Some statistics
 
