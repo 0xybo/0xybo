@@ -31,43 +31,43 @@ First-year student at a computer engineering school.
 
 # Student Projects
 
-<a href="https://github.com/CESI-ORLEANS-A2/Groupe-3-Projet-Bloc-POO">
+<a href="https://github.com/CESI-ORLEANS-INGE/Groupe-3-Projet-Bloc-POO">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Groupe-3-Projet-Bloc-POO&show_icons=true&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=Groupe-3-Projet-Bloc-POO&show_icons=true&theme=dark"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Groupe-3-Projet-Bloc-POO&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=Groupe-3-Projet-Bloc-POO&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Groupe-3-Projet-Bloc-POO&show_icons=true" alt="Groupe-3-Projet-Bloc-POO" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=Groupe-3-Projet-Bloc-POO&show_icons=true" alt="Groupe-3-Projet-Bloc-POO" />
     </picture>
 </a>
-<a href="https://github.com/CESI-ORLEANS-A2/Station_Meteo_Groupe_1">
+<a href="https://github.com/CESI-ORLEANS-INGE/Station_Meteo_Groupe_1">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Station_Meteo_Groupe_1&show_icons=true&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=Station_Meteo_Groupe_1&show_icons=true&theme=dark"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Station_Meteo_Groupe_1&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=Station_Meteo_Groupe_1&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=Station_Meteo_Groupe_1&show_icons=true" alt="Station_Meteo_Groupe_1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=Station_Meteo_Groupe_1&show_icons=true" alt="Station_Meteo_Groupe_1" />
     </picture>
 </a>
-<a href="https://github.com/CESI-ORLEANS-A2/ProjetWebGroupe2">
+<a href="https://github.com/CESI-ORLEANS-INGE/ProjetWebGroupe2">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=ProjetWebGroupe2&show_icons=true&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=ProjetWebGroupe2&show_icons=true&theme=dark"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=ProjetWebGroupe2&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=ProjetWebGroupe2&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-A2&repo=ProjetWebGroupe2&show_icons=true" alt="ProjetWebGroupe2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=ProjetWebGroupe2&show_icons=true" alt="ProjetWebGroupe2" />
     </picture>
 </a>
 <a href="https://github.com/0xybo/CESI_A3_Projet_AlgorithmieEtOptimisationCombinatoire">
