@@ -1,4 +1,4 @@
-First-year student at a computer engineering school.
+Second-year student at a computer engineering school.
 
 # Repositories
 
