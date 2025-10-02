@@ -96,6 +96,19 @@ Second-year student at a computer engineering school.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A3_Projet_IAMachineLearning&show_icons=true" alt="0xybo/CESI_A3_Projet_IAMachineLearning" />
     </picture>
 </a>
+<a href="https://github.com/0xybo/CESI_A3_Projet_GenieLogiciel">
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A3_Projet_GenieLogiciel&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A3_Projet_GenieLogiciel&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A3_Projet_GenieLogiciel&show_icons=true" alt="0xybo/CESI_A3_Projet_GenieLogiciel" />
+    </picture>
+</a>
 
 # Some statistics
 
