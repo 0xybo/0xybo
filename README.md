@@ -25,49 +25,49 @@ Second-year student at a computer engineering school.
             srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=homeassistant-mipc-camera&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=homeassistant-mipc-camera&show_icons=true" alt="ProjetPOOGroupe3" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=homeassistant-mipc-camera&show_icons=true" alt="CESI_A2_Projet_POO" />
     </picture>
 </a>
 
 # Student Projects
 
-<a href="https://github.com/CESI-ORLEANS-INGE/ProjetPOOGroupe3">
+<a href="https://github.com/0xybo/CESI_A2_Projet_POO">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=ProjetPOOGroupe3&show_icons=true&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A2_Projet_POO&show_icons=true&theme=dark"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=ProjetPOOGroupe3&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A2_Projet_POO&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=ProjetPOOGroupe3&show_icons=true" alt="ProjetPOOGroupe3" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A2_Projet_POO&show_icons=true" alt="CESI_A2_Projet_POO" />
     </picture>
 </a>
-<a href="https://github.com/CESI-ORLEANS-INGE/ProjetSystemeEmbarqueGroupe1">
+<a href="https://github.com/0xybo/CESI_A2_Projet_SystemeEmbarque">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=ProjetSystemeEmbarqueGroupe1&show_icons=true&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A2_Projet_SystemeEmbarque&show_icons=true&theme=dark"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=ProjetSystemeEmbarqueGroupe1&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A2_Projet_SystemeEmbarque&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=ProjetSystemeEmbarqueGroupe1&show_icons=true" alt="ProjetSystemeEmbarqueGroupe1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A2_Projet_SystemeEmbarque&show_icons=true" alt="CESI_A2_Projet_SystemeEmbarque" />
     </picture>
 </a>
-<a href="https://github.com/CESI-ORLEANS-INGE/ProjetWebGroupe2">
+<a href="https://github.com/0xybo/CESI_A2_Projet_Web">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=ProjetWebGroupe2&show_icons=true&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A2_Projet_Web&show_icons=true&theme=dark"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=ProjetWebGroupe2&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A2_Projet_Web&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CESI-ORLEANS-INGE&repo=ProjetWebGroupe2&show_icons=true" alt="ProjetWebGroupe2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CESI_A2_Projet_Web&show_icons=true" alt="CESI_A2_Projet_Web" />
     </picture>
 </a>
 <a href="https://github.com/0xybo/CESI_A3_Projet_AlgorithmieEtOptimisationCombinatoire">
