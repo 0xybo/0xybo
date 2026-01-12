@@ -3,7 +3,7 @@ Second-year student at a computer engineering school.
 # Repositories
 
 <a href="https://github.com/0xybo/CdP_Downloader">
-    <picture >
+    <picture > 
         <source
             srcset="https://github-readme-stats.vercel.app/api/pin/?username=0xybo&repo=CdP_Downloader&show_icons=true&theme=dark"
             media="(prefers-color-scheme: dark)"
