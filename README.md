@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alban-godier">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTcuMDQgMTcuMDQzaC0yLjk2MnYtNC42NGMwLTEuMTA3LS4wMjMtMi41MzEtMS41NDQtMi41MzFjLTEuNTQ0IDAtMS43OCAxLjIwNC0xLjc4IDIuNDQ5djQuNzIySDcuNzkzVjcuNWgyLjg0NHYxLjNoLjAzOWMuMzk3LS43NSAxLjM2NC0xLjU0IDIuODA4LTEuNTRjMy4wMDEgMCAzLjU1NiAxLjk3NCAzLjU1NiA0LjU0NXpNNC40NDcgNi4xOTRjLS45NTQgMC0xLjcyLS43NzEtMS43Mi0xLjcycy43NjctMS43MiAxLjcyLTEuNzJhMS43MiAxLjcyIDAgMCAxIDAgMy40NG0xLjQ4NCAxMC44NWgtMi45N1Y3LjVoMi45N3pNMTguNTIyIDBIMS40NzZDLjY2IDAgMCAuNjQ1IDAgMS40NHYxNy4xMkMwIDE5LjM1NS42NiAyMCAxLjQ3NiAyMGgxNy4wNDJjLjgxNSAwIDEuNDgyLS42NDQgMS40ODItMS40NFYxLjQ0QzIwIC42NDYgMTkuMzMzIDAgMTguNTE4IDB6Ii8+PC9zdmc+&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/0xybo">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
