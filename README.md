@@ -144,7 +144,7 @@
     </a>
 </p>
 
-<h3 align="center">Personnal Projects</h3>
+<h3 align="center">Student Projects</h3>
 
 <p align="center">
     <a href="https://github.com/0xybo/CESI_A2_Projet_POO">
