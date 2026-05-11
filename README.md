@@ -238,6 +238,32 @@
             <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=0xybo&repo=CESI_A4_IoT&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&count_private=true" alt="0xybo/CESI_A4_IoT" />
         </picture>
     </a>
+    <a href="https://github.com/0xybo/CESI_A4_IA_DeepLearning">
+        <picture>
+            <source
+                srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=0xybo&repo=CESI_A4_IA_DeepLearning&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&count_private=true"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=0xybo&repo=CESI_A4_IA_DeepLearning&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&count_private=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=0xybo&repo=CESI_A4_IA_DeepLearning&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&count_private=true" alt="0xybo/CESI_A4_IoT" />
+        </picture>
+    </a>
+    <a href="https://github.com/0xybo/CESI_A4_MicroserviceSimulation">
+        <picture>
+            <source
+                srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=0xybo&repo=CESI_A4_MicroserviceSimulation&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&count_private=true"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=0xybo&repo=CESI_A4_MicroserviceSimulation&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&count_private=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=0xybo&repo=CESI_A4_MicroserviceSimulation&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&count_private=true" alt="0xybo/CESI_A4_IoT" />
+        </picture>
+    </a>
 </p>
 
 <h2 align="center">Some Statistics</h2>
