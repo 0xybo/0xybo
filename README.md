@@ -142,6 +142,19 @@
             <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=0xybo&repo=homeassistant-mipc-camera&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&count_private=true" alt="CESI_A2_Projet_POO" />
         </picture>
     </a>
+    <a href="https://github.com/0xybo/User-Javascript-and-CSS" align="center">
+        <picture>
+            <source
+                srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=0xybo&repo=User-Javascript-and-CSS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&count_private=true"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=0xybo&repo=User-Javascript-and-CSS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&count_private=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=0xybo&repo=User-Javascript-and-CSS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&count_private=true" alt="CESI_A2_Projet_POO" />
+        </picture>
+    </a>
 </p>
 
 <h3 align="center">Student Projects</h3>
